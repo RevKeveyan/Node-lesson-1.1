@@ -12,3 +12,13 @@ const server = http.createServer((req, res) => {
 server.listen(port, hostname, () => {
   console.log(`Server running at http://${hostname}:${port}/`);
 });
+
+//git status // popoxutyun
+//git add . - ete petq en bolory avelacvi ete voch fili liqy . - poxaen
+//git commit -m"description" te inch enq arel
+//git push
+
+//git config --global user.name
+//git config --global user.email
+
+//branch - xoski main
